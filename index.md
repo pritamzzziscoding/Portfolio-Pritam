@@ -2,7 +2,7 @@
 
 ## Contacts
 - __Phone Number:__ _8810232614_
-- __Email:__ pritambarmanofficial@gmail.com
+- [Email](https://www.gmail.com/in/pritambarmanofficial@gmail.com/)
 - [Linkdin](https://www.linkedin.com/in/pritambarmanofficial44/) 
 - [GitHub](https://github.com/pritamzzziscoding)
 
