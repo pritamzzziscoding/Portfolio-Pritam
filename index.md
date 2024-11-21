@@ -1,5 +1,7 @@
 # ___Pritam Barman___
 
+<img src="./img.png" height=200px></img>
+
 ## Contacts
 - __Phone Number:__ _8810232614_
 - [Email](https://www.gmail.com/in/pritambarmanofficial@gmail.com/)
