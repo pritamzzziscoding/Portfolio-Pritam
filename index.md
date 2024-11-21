@@ -26,9 +26,9 @@ Hello Everyone, I am Pritam Barman second year student from MNIT, currently purs
 - Web Devlopment(HTML, CSS, Javascript)
 
 ## Projects
-- Portfolio Website
+- [x] Portfolio Website
   - Build Using HTML,CSS
-- Dice Game
+- [ ] Dice Game
   - Build Using HTML, CSS, Javascript
 
 ## Acheivements
