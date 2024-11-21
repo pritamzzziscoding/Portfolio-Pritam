@@ -1,6 +1,6 @@
 # ___Pritam Barman___
 
-<img src="./img.png" height=200px></img>
+<img src="./img.png" height=200px>
 
 ## Contacts
 - __Phone Number:__ _8810232614_
